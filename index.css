@@ -78,8 +78,8 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding-top: 20px;
-    margin-left: 80px;
+    padding-top: 5%;
+    margin-left: 20%;
     
     
 }
@@ -109,3 +109,4 @@ iframe{
     margin-left: 12%;
    margin-top: 10%;
 }
+
